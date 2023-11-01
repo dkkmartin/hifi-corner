@@ -1,5 +1,45 @@
 # HIFI-corner
 
+A group project HIFI webshop
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  https://github.com/dkkmartin/hifi-corner.git
+```
+
+Go to the project directory
+
+```bash
+  cd hifi-corner
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+Open a new terminal, then start json-server
+
+```bash
+  npm run json-server
+```
+## Demo
+
+As the products are fetched with json-server, you will need to run the project locally.
+
+
+
 ## 🧞 Commands
 
 All commands are run from the root of the project, from a terminal:
